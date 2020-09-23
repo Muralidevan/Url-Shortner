@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://Murali:Yuvaneethatlas@urlshortner.tipqb.mongodb.net/<dbname>?retryWrites=true&w=majority",
+	"baseUrl": "https://localhost:5000"
+}
